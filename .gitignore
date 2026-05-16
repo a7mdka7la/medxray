@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+.env
+
+# Generated artefacts that are large or easy to rebuild
+data/index/*
+!data/index/*/.gitkeep
+
+# Model caches
+.cache/
+.hf_cache/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs / transient
+*.log

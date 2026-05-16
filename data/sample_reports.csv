@@ -1,0 +1,121 @@
+image_id,image_path,text
+ROCOv2_2023_train_036428,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_036428.png,"FINDINGS: Transthoracic echocardiography showing a large right atrial thrombus (white arrow) extending into the right ventricle
+IMPRESSION: Transthoracic echocardiography showing a large right atrial thrombus (white arrow) extending into the right ventricle
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_044688,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_044688.png,"FINDINGS: This chest radiograph (posteroanterior view) shows innumerable widespread, small, dense nodules, diffusely involving both lungs-predominantly in the basal regions - with obscuration of the mediastinal, cardiac, and diaphragmatic borders.
+IMPRESSION: A few fibrotic strands can be detected in bilateral lungs.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_023904,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_023904.png,"FINDINGS: Frontal chest radiograph displays bilateral scattered lung infiltrates most pronounced in right lower lung zone
+IMPRESSION: Frontal chest radiograph displays bilateral scattered lung infiltrates most pronounced in right lower lung zone
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_044380,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_044380.png,"FINDINGS: Parasternal short axis showing a rounded heterogeneous mass (arrow) of 3. 7 cm2 in the trunk of the pulmonary artery (AO = 29 cm, AP = 26 cm).
+IMPRESSION: AO, aorta. AP, pulmonary artery.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_013903,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_013903.png,"FINDINGS: Computed tomographic view of a complex aspergilloma of the left lung
+IMPRESSION: Computed tomographic view of a complex aspergilloma of the left lung
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_018565,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_018565.png,"FINDINGS: Repeat Chest X-ray after Antiviral Therapy InitiationChest X-Ray taken on day four of antiviral therapy.
+IMPRESSION: Bilateral consolidations decreased compared to image B (white arrows). Pleural effusion is also decreased compared to image B (blue arrow).
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_014259,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_014259.png,"FINDINGS: Chest radiograph
+IMPRESSION: Chest radiograph
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_057409,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_057409.png,"FINDINGS: Chest radiograph demonstrating left tension pneumothorax (horizontal black arrow) with near- complete collapse of the left lung as well as significant subcutaneous emphysema (horizontal white arrow) to the left chest wall and neck.
+IMPRESSION: Also noted is a chest tube to the left chest (vertical black arrow).
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_038509,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_038509.png,"FINDINGS: Right breast cancer with lung metastasis (M1). On positron emission tomography-computed tomography, 10-cm cancerous mass is seen in right breast and multiple FDG uptakes are seen in right axillary lymph nodes (arrow).
+IMPRESSION: there are lung nodules with FDG uptake, suggesting lung metastasis (arrowhead). FDG = fludeoxyglucose, M = metastasis.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_033637,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_033637.png,"FINDINGS: Echocardiogram of a subject with pericardial effusion
+IMPRESSION: Echocardiogram of a subject with pericardial effusion
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_039279,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_039279.png,"FINDINGS: Computed tomography with intravenous contrast revealed filling defect of an embolus in the right division of pulmonary artery (white arrow), loculated pleural effusion (black arrow head) and air-bronchogram in the left lung
+IMPRESSION: Computed tomography with intravenous contrast revealed filling defect of an embolus in the right division of pulmonary artery (white arrow), loculated pleural effusion (black arrow head) and air-bronchogram in the left lung
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_003427,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_003427.png,"FINDINGS: Chest X-ray showing scattered infiltrates in both lungs (blue arrows)
+IMPRESSION: Chest X-ray showing scattered infiltrates in both lungs (blue arrows)
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_004693,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_004693.png,"FINDINGS: Chest X-ray
+IMPRESSION: Chest X-ray
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_016136,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_016136.png,"FINDINGS: Modified apical 4-chamber view of TTE shows the bullet without pericardial effusion
+IMPRESSION: Modified apical 4-chamber view of TTE shows the bullet without pericardial effusion
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_002215,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_002215.png,"FINDINGS: Major aortopulmonary collateral arteries (MAPCAs) supply from the abdominal aorta draining into the common long chamber of the pulmonary veins due to sequestration of pulmonary arteries
+IMPRESSION: Major aortopulmonary collateral arteries (MAPCAs) supply from the abdominal aorta draining into the common long chamber of the pulmonary veins due to sequestration of pulmonary arteries
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_006057,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_006057.png,"FINDINGS: Axial chest CT showing most of the pathology found on the plain radiograph but also bilateral anterior pneumothoraces.
+IMPRESSION: large volume anterior pneumopericardium. tube thoracostomies.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_040679,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_040679.png,"FINDINGS: Contrast-enhanced CT image showing massive thrombosis of the right and left pulmonary artery (arrows)
+IMPRESSION: Contrast-enhanced CT image showing massive thrombosis of the right and left pulmonary artery (arrows)
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_023813,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_023813.png,"FINDINGS: A fluoroscopic image of a dog in humanoid position during a coughing phase. The left cranial lung lobe (curved solid line) is extruded to the caudal 5th cervical spine (C5). The dog was diagnosed with grade 3 cervical lung herniation.
+IMPRESSION: C, cervical vertebrae. R, right. L, left.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_036886,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_036886.png,"FINDINGS: Intrapleural penetration of the clavicle fracture clearly seen in this coronal section of a computerized tomographic image
+IMPRESSION: Intrapleural penetration of the clavicle fracture clearly seen in this coronal section of a computerized tomographic image
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_051740,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_051740.png,"FINDINGS: Chest X-ray showing a large left pulmonary opacity
+IMPRESSION: Chest X-ray showing a large left pulmonary opacity
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_042795,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_042795.png,"FINDINGS: Chest X-ray demonstrating right pneumothorax
+IMPRESSION: Chest X-ray demonstrating right pneumothorax
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_058391,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_058391.png,"FINDINGS: CT scan of the thorax showing large well defined lobulated, nonhomogenous mass extending up to the pleural surface
+IMPRESSION: CT scan of the thorax showing large well defined lobulated, nonhomogenous mass extending up to the pleural surface
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_035241,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_035241.png,"FINDINGS: Chest X-ray on Day+1, diffuse interstitial shadowing noted throughout both lung fields, greater on the right
+IMPRESSION: Chest X-ray on Day+1, diffuse interstitial shadowing noted throughout both lung fields, greater on the right
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_003639,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_003639.png,"FINDINGS: Ultrasound scan of the neck in axial view taken at suprasternal level shows sill-defined soft tissue in between right internal jugular vein (white arrow) and trachea (*)at rest
+IMPRESSION: Ultrasound scan of the neck in axial view taken at suprasternal level shows sill-defined soft tissue in between right internal jugular vein (white arrow) and trachea (*)at rest
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_010200,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_010200.png,"FINDINGS: Chest CT scan of a 59-year-old male patient who was treated in the intensive care unit for 12 days with a diagnosis of COVID-19, showing pulmonary opacities, one with an inverted halo sign (arrows), characterized by consolidation with a low-attenuation center
+IMPRESSION: Chest CT scan of a 59-year-old male patient who was treated in the intensive care unit for 12 days with a diagnosis of COVID-19, showing pulmonary opacities, one with an inverted halo sign (arrows), characterized by consolidation with a low-attenuation center
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_052342,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_052342.png,"FINDINGS: Posterior-anterior chest X-ray showing enlarged cardiac silhouette and vascular congestion
+IMPRESSION: Posterior-anterior chest X-ray showing enlarged cardiac silhouette and vascular congestion
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_048671,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_048671.png,"FINDINGS: Right-sided pneumatocele/bullae seen with associated right lower lobe ground glass opacities.
+IMPRESSION: and left sided pneumothorax and pneumatocele.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_040261,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_040261.png,"FINDINGS: PA chest radiograph reveals a right hilar mass
+IMPRESSION: PA chest radiograph reveals a right hilar mass
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_057115,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_057115.png,"FINDINGS: Computed tomography of chest showing largest pulmonary metastatic nodule of size 10 × 6 cm in right middle and lower lobes invading adjacent mediastinum, mediastinal pleura, pericardium, and right pulmonary vein and bronchus
+IMPRESSION: Computed tomography of chest showing largest pulmonary metastatic nodule of size 10 × 6 cm in right middle and lower lobes invading adjacent mediastinum, mediastinal pleura, pericardium, and right pulmonary vein and bronchus
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_011284,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_011284.png,"FINDINGS: Upright portable chest X-ray.
+IMPRESSION: No acute cardiopulmonary process was noted and no intra-abdominal free air.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_037227,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_037227.png,"FINDINGS: Ultrasonographic image of a 35-gestational-week fetus diagnosed with right lung agenesis.
+IMPRESSION: At the transverse plane of the thorax level, a right-sided heart beside the left lung was demonstrated and the cardiac axis was about 50° toward right side. Sp, spine.
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_016757,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_016757.png,"FINDINGS: Transesophageal echocardiography documenting the floating mass in descending thoracic aorta
+IMPRESSION: Transesophageal echocardiography documenting the floating mass in descending thoracic aorta
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_028603,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_028603.png,"FINDINGS: On the computed tomography images, a mildly enhanced lesion with finger-like appearance was noted along the left main bronchus extending to the upper and lower lobar bronchi, as suspected on digital tomosynthesis
+IMPRESSION: On the computed tomography images, a mildly enhanced lesion with finger-like appearance was noted along the left main bronchus extending to the upper and lower lobar bronchi, as suspected on digital tomosynthesis
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_019502,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_019502.png,"FINDINGS: Chest X-ray showing a pneumopericardium, most probably due to the direct extension of the fungal infection (day 15)
+IMPRESSION: Chest X-ray showing a pneumopericardium, most probably due to the direct extension of the fungal infection (day 15)
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_039271,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_039271.png,"FINDINGS: Possible communication between left coronary artery and pulmonary artery
+IMPRESSION: Possible communication between left coronary artery and pulmonary artery
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_054354,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_054354.png,"FINDINGS: Chest TC showing pericardial effusion and pleural effusion on the right hemithorax
+IMPRESSION: Chest TC showing pericardial effusion and pleural effusion on the right hemithorax
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_045859,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_045859.png,"FINDINGS: HRCT of the chest in parenchymal window and in axial section reveals bronchiectasis and dextrocardia
+IMPRESSION: HRCT of the chest in parenchymal window and in axial section reveals bronchiectasis and dextrocardia
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_041742,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_041742.png,"FINDINGS: Frontal chest X-ray on admission showed severe scattered patchy bilateral lung infiltrates, diffusely in the right lung and in the left upper lobe (red arrows)
+IMPRESSION: Frontal chest X-ray on admission showed severe scattered patchy bilateral lung infiltrates, diffusely in the right lung and in the left upper lobe (red arrows)
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_022856,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_022856.png,"FINDINGS: Chest computed tomography with intravenous contrast demonstrating chest wall collection extending into the anterior mediastinum
+IMPRESSION: Chest computed tomography with intravenous contrast demonstrating chest wall collection extending into the anterior mediastinum
+RECOMMENDATIONS: Clinical correlation."
+ROCOv2_2023_train_058738,/Users/ahmedkahla/Developer/4th year university/Term 2/Multi media/Assignment 2/medxray/data/sample_images/ROCOv2_2023_train_058738.png,"FINDINGS: Patient’s anterior-posterior chest X-ray film on extracorporeal membrane oxygenation day 2
+IMPRESSION: Patient’s anterior-posterior chest X-ray film on extracorporeal membrane oxygenation day 2
+RECOMMENDATIONS: Clinical correlation."

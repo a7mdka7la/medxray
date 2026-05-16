@@ -1,0 +1,28 @@
+[
+  {
+    "backend": "clip",
+    "n_queries": 60,
+    "n_unique_images": 20,
+    "text->image recall@1": 0.033,
+    "text->image recall@5": 0.2,
+    "text->image MRR": 0.079,
+    "image->image recall@1": 1.0,
+    "image->image recall@5": 1.0,
+    "image->image MRR": 1.0,
+    "avg text query (s)": 0.03,
+    "avg image query (s)": 0.03
+  },
+  {
+    "backend": "colpali",
+    "n_queries": 60,
+    "n_unique_images": 20,
+    "text->image recall@1": 0.0,
+    "text->image recall@5": 0.133,
+    "text->image MRR": 0.049,
+    "image->image recall@1": 1.0,
+    "image->image recall@5": 1.0,
+    "image->image MRR": 1.0,
+    "avg text query (s)": 0.59,
+    "avg image query (s)": 5.58
+  }
+]
