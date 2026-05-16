@@ -35,3 +35,8 @@ plotly>=5.20
 # CLI
 typer>=0.12
 rich>=13.7
+
+# Report rendering (screenshots + PDF)
+playwright>=1.40
+markdown>=3.5
+pygments>=2.16
